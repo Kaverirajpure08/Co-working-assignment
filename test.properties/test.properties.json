@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "66bfa879cada9781e868a219"
+  },
+  "name": " WorkHub Space",
+  "location": "Pune",
+  "price": 15000,
+  "description": "A modern co-working space with high-speed internet, conference rooms, and a vibrant community of professionals",
+  "images": [
+    "uploads\\1723839798821-p1.png"
+  ],
+  "createdAt": {
+    "$date": "2024-08-16T19:28:57.499Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T20:23:18.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bfa8e1cada9781e868a21d"
+  },
+  "name": "TechNest Co-Working",
+  "location": "Hinjewadi",
+  "price": 18500,
+  "description": "A tech-focused co-working space with state-of-the-art infrastructure, a cafeteria, and 24/7 access.",
+  "images": [
+    "uploads\\1723839762843-p2png.png"
+  ],
+  "createdAt": {
+    "$date": "2024-08-16T19:30:41.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T20:22:42.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bfa950cada9781e868a226"
+  },
+  "name": "Innovate Pune ",
+  "location": "Magarpatta",
+  "price": 13000,
+  "description": "A creative workspace offering private cabins, shared desks, and weekly networking events.",
+  "images": [
+    "uploads\\1723839784185-p3jpg.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-08-16T19:32:32.654Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T20:23:04.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bfaa32cada9781e868a22e"
+  },
+  "name": "Hive Workspaces",
+  "location": "Kharadi",
+  "price": 16000,
+  "description": "A chic co-working environment with ergonomic seating, meeting rooms, and a rooftop lounge.",
+  "images": [
+    "uploads\\1723836978483-p4png.png"
+  ],
+  "createdAt": {
+    "$date": "2024-08-16T19:36:18.487Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T19:36:18.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bfaa6fcada9781e868a232"
+  },
+  "name": "The Workstation",
+  "location": "Baner",
+  "price": 18000,
+  "description": "A professional co-working space with dedicated desks, private offices, and regular workshops.",
+  "images": [
+    "uploads\\1723837055200-p6jpg.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-08-16T19:37:19.684Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T19:37:35.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bfb158cada9781e868a267"
+  },
+  "name": "Synergy Workspaces  ",
+  "location": "Kothrud",
+  "price": 13500,
+  "description": "A dynamic co-working space with meeting rooms, event hosting, and easy access to public transportation.",
+  "images": [
+    "uploads\\1723838808024-p7jpg.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-08-16T20:06:48.029Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T20:06:48.029Z"
+  },
+  "__v": 0
+}]
